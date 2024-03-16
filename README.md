@@ -1,2 +1,2 @@
 # QuestoesEstruturaDeDados1
-Lista de respostas dos exercicio de Alocao_Dinamica
+Lista de respostas dos exercícios de Alocao_Dinamica
